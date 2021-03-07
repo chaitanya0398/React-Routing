@@ -1,0 +1,8 @@
+.app {
+  background-color: white;
+  width: 80%;
+  padding: 30px;
+  box-shadow: 0px 0px 30px 4px #ccc;
+  margin: auto;
+  height: 800px;
+}
