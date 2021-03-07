@@ -1,0 +1,18 @@
+.abc {
+  margin: auto;
+  margin-top: 40px;
+  box-shadow: 0px 0px 20px 5px rgba(0, 0, 0, 0.4);
+}
+table {
+  text-align: center;
+  width: 100%;
+}
+.tth {
+  color: greenyellow;
+  background-color: #005289;
+}
+
+.ttd {
+  background-color: #005289;
+  color:white;
+}

@@ -1,0 +1,20 @@
+.navbar {
+  background-color: #005289;
+  width: 100%;
+  padding: 5px;
+  margin-top: 10px;
+}
+.navlink {
+  background-color: #005289;
+  width: 100%;
+  padding: 5px;
+  font-size: 20px;
+  margin: auto;
+  color: white;
+  text-align: center;
+}
+.navlink-selected {
+  color: blue;
+  padding: 9px;
+  background-color: white;
+}
